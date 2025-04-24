@@ -36,20 +36,12 @@ Build the project using your preferred IDE or with Maven:
 `mvn clean install`.
 
 4. **Run the application:**
-`java -jar target/expenses-tracker.jar`.
+mvn sprint-boot:run
 
 5. **Access the App:**
 Open your web browser and navigate to `http://localhost:8080`.
 
-## ScreenShots
-![Example Image](screenshots/1.png) <br>
-![Example Image](screenshots/2-2.png) <br>
-![Example Image](screenshots/3-3.png) <br>
-![Example Image](screenshots/4-4.png) <br>
-![Example Image](screenshots/5-5.png) <br>
-![Example Image](screenshots/6-6.png) <br>
-![Example Image](screenshots/7.png) <br>
-![Example Image](screenshots/8.png) <br>
+
 
 ## Contributions
 Contributions are welcome! If you find a bug or have suggestions for improvement, feel free to open an issue or create a pull request.
